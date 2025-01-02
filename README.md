@@ -37,11 +37,13 @@ Analyze Amazon India's sales data over a four-month period, identifying key sale
 **1.Data Cleaning:**
 - Removed duplicates and handled missing values using Power Query.
 - Standardized data formats for consistency.
+
 **2.Custom Measures and Insights:**
 - **Total Sales:** Aggregated revenue across all regions and products.
 - **Sales Growth:** Month-over-month growth percentage.
 - **Top Products:** Identified best-selling items and their contribution to overall sales.
 - **Regional Performance:** Highlighted top-performing states/regions.
+
 **3.Interactive Dashboard:**
 - Visuals for daily, monthly, and category-wise trends.
 - Slicers and filters for in-depth analysis by product category, region, or time period.
